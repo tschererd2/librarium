@@ -114,7 +114,7 @@ Increasing the limit and request values could result in a virtual cluster requir
 
 :::
 
-To enable virtual clusters for OpenShift, review the OpenShit [instructions below](#enable-virtual-cluster-for-openshift). 
+To enable virtual clusters for OpenShift, review the OpenShift [instructions below](#enable-virtual-cluster-for-openshift). 
 
 
 7. Click **Next** to complete the cluster group creation process.
